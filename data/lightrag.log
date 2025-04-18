@@ -1,0 +1,21 @@
+2025-04-09 06:37:41,758 - lightrag - INFO - Logger initialized for working directory: ./data
+2025-04-09 06:37:41,758 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-04-09 06:37:41,758 - lightrag - INFO - Load KV full_docs with 0 data
+2025-04-09 06:37:41,758 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-04-09 06:37:48,868 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-04-09 06:37:49,245 - lightrag - INFO - [New Chunks] inserting 15 chunks
+2025-04-09 06:37:49,245 - lightrag - INFO - Inserting 15 vectors to chunks
+2025-04-09 06:37:52,495 - lightrag - INFO - [Entity Extraction]...
+2025-04-09 06:37:59,531 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-04-09 21:09:30,897 - lightrag - INFO - Logger initialized for working directory: ./data
+2025-04-09 21:09:30,897 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-04-09 21:09:30,897 - lightrag - INFO - Load KV full_docs with 0 data
+2025-04-09 21:09:30,897 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-04-09 21:09:30,898 - lightrag - INFO - Loaded graph from ./data/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-04-09 21:09:53,973 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-04-09 21:09:59,265 - lightrag - INFO - [New Chunks] inserting 15 chunks
+2025-04-09 21:09:59,265 - lightrag - INFO - Inserting 15 vectors to chunks
+2025-04-09 21:10:01,235 - lightrag - INFO - [Entity Extraction]...
+2025-04-09 21:13:25,819 - lightrag - INFO - Inserting 63 vectors to entities
+2025-04-09 21:13:32,761 - lightrag - INFO - Inserting 58 vectors to relationships
+2025-04-09 21:13:37,728 - lightrag - INFO - Writing graph with 63 nodes, 58 edges

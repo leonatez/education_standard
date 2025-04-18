@@ -1,0 +1,672 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"BỘ GIÁO DỤC VÀ ĐÀO TẠO is the Ministry of Education and Training in Vietnam responsible for regulating educational standards and quality in higher education."&lt;SEP&gt;"BỘ GIÁO DỤC VÀ ĐÀO TẠO is the Ministry of Education and Training in Vietnam, responsible for managing and overseeing educational practices and policies."&lt;SEP&gt;"Bộ Giáo dục và Đào tạo is an educational organization in Vietnam responsible for overseeing education and training, including statistical calculations related to graduate employment."&lt;SEP&gt;"Bộ Giáo dục và Đào tạo is the governmental body responsible for the development and management of higher education data in Vietnam."</data>
+  <data key="d2">chunk-44bc160c7fe3c9dbddb1f997573fafe3&lt;SEP&gt;chunk-42ae86c50e23e314887a0d4b2f094772&lt;SEP&gt;chunk-6fe55c77e83b924bc25df55e2786df17&lt;SEP&gt;chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</node>
+<node id="&quot;HÀ NỘI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Hà Nội is the capital of Vietnam, where the Ministry of Education and Training is located and where significant government decisions are made."</data>
+  <data key="d2">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</node>
+<node id="&quot;THÔNG TƯ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Thông tư refers to the circular issued that establishes educational standards for higher education institutions in Vietnam."</data>
+  <data key="d2">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</node>
+<node id="&quot;CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Chuẩn cơ sở giáo dục đại học refers to the established standards that higher education institutions must adhere to ensure quality."</data>
+  <data key="d2">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</node>
+<node id="&quot;HOÀNG MINH SƠN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Hoàng Minh Sơn is a Deputy Minister associated with the Ministry of Education and Training in Vietnam, involved in educational standards and regulations."&lt;SEP&gt;"Hoàng Minh Sơn is the Deputy Minister who is responsible for issuing the regulations and overseeing the implementation of higher education standards."</data>
+  <data key="d2">chunk-42ae86c50e23e314887a0d4b2f094772&lt;SEP&gt;chunk-6fe55c77e83b924bc25df55e2786df17</data>
+</node>
+<node id="&quot;HEMIS&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"HEMIS (Higher Education Management Information System) is a unified database system for higher education developed and managed by the Ministry of Education and Training in Vietnam."&lt;SEP&gt;"HEMIS is a data management system utilized by higher education institutions for monitoring and reporting performance indicators."&lt;SEP&gt;"HEMIS is a management information system that connects and updates data related to students and quality assurance within higher education institutions."&lt;SEP&gt;"HEMIS stands for Higher Education Management Information System, which is used for managing educational data in higher education institutions."</data>
+  <data key="d2">chunk-268cf42732b135ba5ceebee772dd96b6&lt;SEP&gt;chunk-31cae8f49198b0040cef61ed1deb8f02&lt;SEP&gt;chunk-6fe55c77e83b924bc25df55e2786df17&lt;SEP&gt;chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</node>
+<node id="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"CƠ SỞ GIÁO DỤC ĐẠI HỌC refers to the standards and criteria set for universities and higher education institutions in Vietnam, ensuring quality and consistency in education."&lt;SEP&gt;"Cơ sở giáo dục đại học refers to higher education institutions in Vietnam, governed by specific standards and evaluation criteria."&lt;SEP&gt;"Cơ sở giáo dục đại học refers to institutions of higher education that focus on training and educating students, evaluating their performance based on various standards and criteria."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d&lt;SEP&gt;chunk-6fe55c77e83b924bc25df55e2786df17&lt;SEP&gt;chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</node>
+<node id="&quot;CHIẾN LƯỢC PHÁT TRIỂN&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Chiến lược phát triển refers to the strategic plan for the development of higher education institutions, ensuring continuous improvement."</data>
+  <data key="d2">chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</node>
+<node id="&quot;BỘ QUỐC PHÒNG&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Bộ Quốc phòng is the Ministry of National Defense in Vietnam, which oversees educational institutions under its jurisdiction and applies specific criteria for them."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;BỘ CÔNG AN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Bộ Công an is the Ministry of Public Security in Vietnam, responsible for internal security and enforcing laws, also having its educational institutions subjected to different evaluation criteria."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;TIÊU CHUẨN 4&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tiêu chuẩn 4 outlines specific evaluation criteria for educational institutions, particularly regarding enrollment and training quality."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;TIÊU CHUẨN 5&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tiêu chuẩn 5 focuses on enrollment and training quality standards within higher education institutions."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;TIÊU CHUẨN 6&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tiêu chuẩn 6 emphasizes research and innovation capacity in higher education institutions and their impact on overall performance."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;ĐH&quot;">
+  <data key="d0">"ABBREVIATION"</data>
+  <data key="d1">"ĐH stands for Đại học, which translates to university in English, commonly used in the context of higher education institutions in Vietnam."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;GV&quot;">
+  <data key="d0">"ABBREVIATION"</data>
+  <data key="d1">"GV stands for Giảng viên, meaning lecturer or teacher in an academic context."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</node>
+<node id="&quot;NCS&quot;">
+  <data key="d0">"ABBREVIATION"</data>
+  <data key="d1">"NCS refers to doctoral students, included in the discussion about the educational infrastructure and resource distribution."&lt;SEP&gt;"NCS stands for Nghiên cứu sinh, referring to doctoral candidates or research students in a higher education context."&lt;SEP&gt;"NCS stands for Nghiên cứu sinh, which translates to PhD student in the context of academic institutions."</data>
+  <data key="d2">chunk-50d8ec588cb7181a45fb162712284a4d&lt;SEP&gt;chunk-31cae8f49198b0040cef61ed1deb8f02&lt;SEP&gt;chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;HVCH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"HVCH refers to a higher education institution that focuses on graduate studies."&lt;SEP&gt;"HVCH refers to postgraduate students, who are considered in the educational evaluations discussed in the document."</data>
+  <data key="d2">chunk-31cae8f49198b0040cef61ed1deb8f02&lt;SEP&gt;chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;PGS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"PGS stands for Phó giáo sư, which is the title of an associate professor in the academic system."</data>
+  <data key="d2">chunk-31cae8f49198b0040cef61ed1deb8f02</data>
+</node>
+<node id="&quot;SVĐH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"SVĐH refers to undergraduate students in the context of calculating educational statistics and resource allocation."&lt;SEP&gt;"SVĐH represents students in higher education whose quantities are used to evaluate the number of instructors and resources in the institutions."&lt;SEP&gt;"SVĐH stands for Sinh viên đại học, which refers to undergraduate students in higher education institutions."</data>
+  <data key="d2">chunk-31cae8f49198b0040cef61ed1deb8f02&lt;SEP&gt;chunk-27b904d36b2a1110aa1b3ddaab0b4d8d&lt;SEP&gt;chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</node>
+<node id="&quot;GIẢNG VIÊN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Giảng viên là những cá nhân có nhiệm vụ giảng dạy tại một tổ chức giáo dục, có thể có các trình độ khác nhau."&lt;SEP&gt;"Giảng viên là những người giảng dạy tại cơ sở giáo dục, thực hiện nhiệm vụ truyền đạt kiến thức cho sinh viên."&lt;SEP&gt;"Giảng viên refers to instructors or lecturers in higher education, and their qualifications and roles are being evaluated in the text."&lt;SEP&gt;"giảng viên refers to lecturers or professors involved in the educational system, specifically discussed in terms of their workspace and teaching capabilities."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37&lt;SEP&gt;chunk-27b904d36b2a1110aa1b3ddaab0b4d8d&lt;SEP&gt;chunk-aa1e51342b07bbb234ed24e0a5183deb&lt;SEP&gt;chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</node>
+<node id="&quot;CƠ SỞ GDĐH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cơ sở GDĐH refers to higher education institutions that are being assessed based on various performance and resource criteria."&lt;SEP&gt;"Cơ sở GDĐH refers to higher education institutions that conduct surveys and evaluate the satisfaction levels of their graduates."&lt;SEP&gt;"Cơ sở GDĐH refers to institutions of higher education that conduct surveys on student satisfaction regarding teaching quality and effectiveness."</data>
+  <data key="d2">chunk-bfb56f1d588e1faa78e314cc7bbab76c&lt;SEP&gt;chunk-c5a9b1d16f181bc912f9d5a156d799e0&lt;SEP&gt;chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</node>
+<node id="&quot;VIỆT NAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Việt Nam is a country mentioned in the context of educational standards and statistics, particularly related to internet speed and higher education."</data>
+  <data key="d2">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;BỘ THÔNG TIN VÀ TRUYỀN THÔNG&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Bộ Thông tin và Truyền thông is the Ministry of Information and Communications in Vietnam, responsible for publishing data on internet speed and telecommunications standards."</data>
+  <data key="d2">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;HỌC PHẦN&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"học phần represents courses or subjects offered in higher education and are evaluated for their readiness for online teaching."</data>
+  <data key="d2">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;BIÊN ĐỘ HOẠT ĐỘNG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"biên độ hoạt động is a financial term related to the operational margin of educational institutions over a specified period, indicating economic performance."</data>
+  <data key="d2">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;TĂNG TRƯỞNG BỀN VỮNG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"tăng trưởng bền vững refers to sustainable growth metrics applied to the financial performance of educational institutions over several years."</data>
+  <data key="d2">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</node>
+<node id="&quot;NGƯỜI HỌC&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Người học là những cá nhân tham gia vào quá trình học tập dưới sự giảng dạy của các giảng viên."&lt;SEP&gt;"Người học refers to learners or students participating in surveys regarding their satisfaction with the educational quality provided by their instructors."&lt;SEP&gt;"Người học refers to students participating in the education system, whose feedback and outcomes are being evaluated, particularly regarding their satisfaction with the teaching quality."&lt;SEP&gt;"Người học refers to the students who provide feedback on their satisfaction with lecturers and the learning process."</data>
+  <data key="d2">chunk-bfb56f1d588e1faa78e314cc7bbab76c&lt;SEP&gt;chunk-c5a9b1d16f181bc912f9d5a156d799e0&lt;SEP&gt;chunk-aa1e51342b07bbb234ed24e0a5183deb&lt;SEP&gt;chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;TỶ LỆ TỐT NGHIỆP&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tỷ lệ tốt nghiệp is an evaluation metric that assesses the graduation rates of students from specific academic years."</data>
+  <data key="d2">chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</node>
+<node id="&quot;TỶ LỆ THÔI HỌC&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tỷ lệ thôi học quantifies the dropout rates among students during their studies."</data>
+  <data key="d2">chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</node>
+<node id="&quot;KHẢO SÁT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Khảo sát refers to the survey conducted among students to gather their feedback on employment and satisfaction."&lt;SEP&gt;"Khảo sát represents the survey conducted to gather student opinions on teaching effectiveness and satisfaction."</data>
+  <data key="d2">chunk-4f13f15220d07db1b05bc5b9a8cb8966&lt;SEP&gt;chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</node>
+<node id="&quot;CƠ QUAN QUẢN LÝ NHÀ NƯỚC&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cơ quan quản lý nhà nước is a government body responsible for overseeing and conducting independent surveys to verify the feedback of students and graduates."</data>
+  <data key="d2">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</node>
+<node id="&quot;TỐT NGHIỆP&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tốt nghiệp is an event that marks the completion of studies, where graduates provide feedback about their learning experiences."</data>
+  <data key="d2">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</node>
+<node id="&quot;QUÁ TRÌNH HỌC TẬP&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Quá trình học tập refers to the overall learning process and educational experience that contributes to a student's knowledge, capabilities, and qualities."</data>
+  <data key="d2">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</node>
+<node id="&quot;N1&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"N1 is a calculated metric representing the employment status of graduates, factoring in responses to surveys and overall employment rates within the first 12 months after graduation."</data>
+  <data key="d2">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</node>
+<node id="&quot;M1&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"M1 refers to the count of graduates who confirm employment opportunities aligned with their education level within a year post-graduation."</data>
+  <data key="d2">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</node>
+<node id="&quot;P&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"P represents the total number of graduates surveyed independently regarding their employment status and job placements."</data>
+  <data key="d2">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</node>
+<node id="&quot;R1&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"R1 denotes the income generated from scientific research and knowledge transfer activities in educational institutions, used to assess the effectiveness of funding."</data>
+  <data key="d2">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</node>
+<node id="&quot;GDĐH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GDĐH is a higher education organization involved in the management and governance of educational practices in Vietnam."&lt;SEP&gt;"GDĐH refers to a higher education institution that records and reports on student enrollments and graduations at various levels, including undergraduate and postgraduate."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc&lt;SEP&gt;chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;CHỦ TỊCH HĐT/HĐĐH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Chủ tịch HĐT/HĐĐH is a person holding a significant leadership role in the organization, responsible for decision-making and governance."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;HIỆU TRƯỞNG/ GIÁM ĐỐC&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Hiệu trưởng/ Giám đốc is a person who serves as the principal or director of an educational institution, overseeing educational strategies and operations."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;CHIẾN LƯỢC, KẾ HOẠCH PHÁT TRIỂN&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Chiến lược, kế hoạch phát triển refers to strategic development plans that aim to enhance the institution's educational services."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Quy chế tổ chức và hoạt động establishes the rules regarding the organizational structure and operational methods of the institution."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;QUY CHẾ TÀI CHÍNH&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Quy chế tài chính outlines the financial regulations governing the management of funds within the institution."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;QUY CHẾ DÂN CHỦ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Quy chế dân chủ refers to the regulations ensuring democratic practices within the organization's governance."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;DANH MỤC VỊ TRÍ VIỆC LÀM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Danh mục vị trí việc làm is a list detailing job positions and roles within the organization."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;QUY ĐỊNH VỀ CÔNG TÁC CÁN BỘ, NHÂN SỰ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Quy định về công tác cán bộ, nhân sự sets forth regulations regarding staff and personnel management within the organization."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;QUY ĐỊNH VỀ BẢO ĐẢM CHẤT LƯỢNG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Quy định về bảo đảm chất lượng refers to regulations on maintaining educational quality standards within the institution."</data>
+  <data key="d2">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</node>
+<node id="&quot;ĐỘI NGŨ GIẢNG VIÊN TOÀN THỜI GIAN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Đội ngũ giảng viên toàn thời gian là một tập hợp các giảng viên trong một tổ chức giáo dục, chịu trách nhiệm giảng dạy và nghiên cứu."</data>
+  <data key="d2">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</node>
+<node id="&quot;CƠ SỞ VẬT CHẤT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cơ sở vật chất đề cập đến hạ tầng và thiết bị cần thiết phục vụ cho quá trình giảng dạy và học tập trong một tổ chức giáo dục."</data>
+  <data key="d2">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</node>
+<node id="&quot;TÀI CHÍNH&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tài chính là một chỉ số đánh giá khả năng quản lý tài chính của tổ chức giáo dục."</data>
+  <data key="d2">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</node>
+<node id="&quot;HẠ TẦNG CÔNG NGHỆ THÔNG TIN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Hạ tầng công nghệ thông tin bao gồm các thiết bị và dịch vụ kỹ thuật hỗ trợ cho mục đích giảng dạy và trao đổi thông tin trong tổ chức giáo dục."</data>
+  <data key="d2">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</node>
+<node id="&quot;NHÀ NƯỚC/NHÀ ĐẦU TƯ&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Nhà nước/nhà đầu tư cung cấp hỗ trợ tài chính cho hoạt động giáo dục trong các cơ sở đào tạo."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</node>
+<node id="&quot;HỌC PHÍ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Học phí là một khoản thu từ người học, đóng góp vào nguồn thu cho các cơ sở giáo dục."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</node>
+<node id="&quot;TÌNH HÌNH THU CHI HOẠT ĐỘNG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tình hình thu chi hoạt động là chỉ số tài chính phản ánh doanh thu và chi phí hoạt động trong năm."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</node>
+<node id="&quot;CHỈ SỐ TỐT NGHIỆP&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Chỉ số tốt nghiệp đo lường tỷ lệ sinh viên tốt nghiệp đúng hạn và quá hạn trong năm."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</node>
+<node id="&quot;CÁN BỘ&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Cán bộ là những người làm việc tại các cơ sở giáo dục, chịu trách nhiệm về quản lý và vận hành."</data>
+  <data key="d2">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</node>
+<node id="&quot;THS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"ThS (Thạc sĩ) refers to a master's degree program in Vietnam, indicating an advanced level of education following a bachelor's degree."</data>
+  <data key="d2">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;TS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TS (Tiến sĩ) refers to a doctoral degree program in Vietnam, representing the highest level of academic achievement in education."</data>
+  <data key="d2">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;31/12&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"31/12 refers to the specific date for reporting and recording student statistics and achievements in the educational context."</data>
+  <data key="d2">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;THỐNG KÊ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Thống kê is related to the statistical analysis of student data in higher education, representing insights into student enrollment, graduation, and satisfaction."</data>
+  <data key="d2">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</node>
+<node id="&quot;SINH VIÊN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Sinh viên refers to students who participated in the survey, providing feedback on their employment status and satisfaction levels."</data>
+  <data key="d2">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</node>
+<node id="&quot;TÌNH TRẠNG VIỆC LÀM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Tình trạng việc làm refers to the various employment situations of graduates that are addressed in the survey questions."</data>
+  <data key="d2">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</node>
+<node id="&quot;CHƯƠNG TRÌNH ĐÀO TẠO&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Chương trình đào tạo refers to the various training programs available for students whose feedback is included in the survey."</data>
+  <data key="d2">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</node>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;HÀ NỘI&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"BỘ GIÁO DỤC VÀ ĐÀO TẠO is located in Hà Nội, indicating its administrative significance and central role in educational governance."</data>
+  <data key="d5">"administrative center, governance"</data>
+  <data key="d6">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;THÔNG TƯ&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"BỘ GIÁO DỤC VÀ ĐÀO TẠO issues Thông tư, which describes the implementation of higher education standards in Vietnam."</data>
+  <data key="d5">"regulatory action, educational standards"</data>
+  <data key="d6">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;HOÀNG MINH SƠN&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"Hoàng Minh Sơn holds a significant position within BỘ GIÁO DỤC VÀ ĐÀO TẠO, responsible for educational oversight and policy implementation."&lt;SEP&gt;"Hoàng Minh Sơn, as Deputy Minister, is a key figure in the enactment and oversight of BỘ GIÁO DỤC VÀ ĐÀO TẠO’s policies."</data>
+  <data key="d5">"leadership, education management"&lt;SEP&gt;"leadership, oversight"</data>
+  <data key="d6">chunk-42ae86c50e23e314887a0d4b2f094772&lt;SEP&gt;chunk-6fe55c77e83b924bc25df55e2786df17</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;HEMIS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"BỘ GIÁO DỤC VÀ ĐÀO TẠO manages HEMIS, which is pivotal for maintaining a structured educational database."</data>
+  <data key="d5">"data management, education oversight"</data>
+  <data key="d6">chunk-6fe55c77e83b924bc25df55e2786df17</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;">
+  <data key="d3">19.0</data>
+  <data key="d4">"BỘ GIÁO DỤC VÀ ĐÀO TẠO establishes the standards for CƠ SỞ GIÁO DỤC ĐẠI HỌC to ensure quality in higher education institutions."&lt;SEP&gt;"Bộ Giáo dục và Đào tạo oversees and sets regulations for Cơ sở giáo dục đại học, impacting their governance and operations."</data>
+  <data key="d5">"education standards, quality assurance"&lt;SEP&gt;"regulatory authority, oversight"</data>
+  <data key="d6">chunk-6fe55c77e83b924bc25df55e2786df17&lt;SEP&gt;chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;CHIẾN LƯỢC PHÁT TRIỂN&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Bộ Giáo dục và Đào tạo is responsible for implementing standards and strategies for the development of the education sector."</data>
+  <data key="d5">"strategic development, governance"</data>
+  <data key="d6">chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;N1&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Bộ Giáo dục và Đào tạo computes N1 as a part of its responsibilities to evaluate graduate employment statistics, thereby influencing educational policies."</data>
+  <data key="d5">"policy evaluation, graduate statistics"</data>
+  <data key="d6">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</edge>
+<edge source="&quot;BỘ GIÁO DỤC VÀ ĐÀO TẠO&quot;" target="&quot;R1&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Bộ Giáo dục và Đào tạo uses R1 to gauge the financial outcomes of research efforts related to graduate education and scientific innovation."</data>
+  <data key="d5">"financial assessment, research output"</data>
+  <data key="d6">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</edge>
+<edge source="&quot;THÔNG TƯ&quot;" target="&quot;CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Thông tư establishes Chuẩn cơ sở giáo dục đại học, which sets the minimum standards required for higher education institutions."</data>
+  <data key="d5">"standardization, regulation"</data>
+  <data key="d6">chunk-42ae86c50e23e314887a0d4b2f094772</data>
+</edge>
+<edge source="&quot;HEMIS&quot;" target="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Cơ sở giáo dục đại học utilizes HEMIS for managing student data and ensuring quality, highlighting its importance in educational administration."</data>
+  <data key="d5">"data management, educational technology"</data>
+  <data key="d6">chunk-c0370a48d334867dbc97454d8b6cbcb6</data>
+</edge>
+<edge source="&quot;HEMIS&quot;" target="&quot;HVCH&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"HEMIS is utilized by HVCH to manage and evaluate educational data and performance metrics."("</data>
+  <data key="d5">"management system, educational data"</data>
+  <data key="d6">chunk-31cae8f49198b0040cef61ed1deb8f02</data>
+</edge>
+<edge source="&quot;HEMIS&quot;" target="&quot;CƠ SỞ GDĐH&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Cơ sở GDĐH uses HEMIS to manage and evaluate its operational performance based on various metrics."</data>
+  <data key="d5">"data management, operational efficiency"</data>
+  <data key="d6">chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</edge>
+<edge source="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;" target="&quot;TIÊU CHUẨN 4&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Cơ sở giáo dục đại học must adhere to Tiêu chuẩn 4 for maintaining standards in enrollment and training quality."</data>
+  <data key="d5">"evaluation, educational standards"</data>
+  <data key="d6">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</edge>
+<edge source="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;" target="&quot;TIÊU CHUẨN 5&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Cơ sở giáo dục đại học must follow Tiêu chuẩn 5 to ensure effective enrollment and educational practices."</data>
+  <data key="d5">"assessment, educational practices"</data>
+  <data key="d6">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</edge>
+<edge source="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;" target="&quot;TIÊU CHUẨN 6&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Tiêu chuẩn 6 applies to Cơ sở giáo dục đại học in evaluating their research and innovation capabilities."</data>
+  <data key="d5">"research evaluation, innovation"</data>
+  <data key="d6">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</edge>
+<edge source="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;" target="&quot;BỘ QUỐC PHÒNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Bộ Quốc phòng oversees certain educational institutions, which must follow specific evaluation criteria set by the ministry."</data>
+  <data key="d5">"regulation, oversight"</data>
+  <data key="d6">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</edge>
+<edge source="&quot;CƠ SỞ GIÁO DỤC ĐẠI HỌC&quot;" target="&quot;BỘ CÔNG AN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Bộ Công an governs its educational institutions, applying unique standards different from other ministries."</data>
+  <data key="d5">"regulation, oversight"</data>
+  <data key="d6">chunk-50d8ec588cb7181a45fb162712284a4d</data>
+</edge>
+<edge source="&quot;NCS&quot;" target="&quot;PGS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"NCS (doctoral students) may work under the supervision of PGS (associate professors) for their research and academic guidance."("</data>
+  <data key="d5">"academic mentorship, educational hierarchy"</data>
+  <data key="d6">chunk-31cae8f49198b0040cef61ed1deb8f02</data>
+</edge>
+<edge source="&quot;NCS&quot;" target="&quot;GIẢNG VIÊN&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"NCS collaborate with giảng viên for research and dissertation processes, emphasizing their academic relationship."</data>
+  <data key="d5">"academic collaboration, research"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</edge>
+<edge source="&quot;HVCH&quot;" target="&quot;SVĐH&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"HVCH provides education and services to SVĐH (undergraduate students) as part of its academic offerings."("</data>
+  <data key="d5">"educational services, academic institution"</data>
+  <data key="d6">chunk-31cae8f49198b0040cef61ed1deb8f02</data>
+</edge>
+<edge source="&quot;HVCH&quot;" target="&quot;GIẢNG VIÊN&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"HVCH engage with giảng viên for advanced learning, indicating mentorship and educational guidance."</data>
+  <data key="d5">"mentorship, higher education"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</edge>
+<edge source="&quot;SVĐH&quot;" target="&quot;GIẢNG VIÊN&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"SVĐH rely on giảng viên for their education, establishing a direct educational relationship."&lt;SEP&gt;"The ratio of SVĐH to Giảng viên is a metric used to assess the adequacy of teaching staff in relation to the number of students."</data>
+  <data key="d5">"educational relationship, student-teacher"&lt;SEP&gt;"staffing, performance assessment"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d&lt;SEP&gt;chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</edge>
+<edge source="&quot;GIẢNG VIÊN&quot;" target="&quot;CƠ SỞ GDĐH&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Giảng viên is a key component of Cơ sở GDĐH, contributing to the teaching and learning process at the institution."</data>
+  <data key="d5">"teaching, evaluation"</data>
+  <data key="d6">chunk-268cf42732b135ba5ceebee772dd96b6</data>
+</edge>
+<edge source="&quot;GIẢNG VIÊN&quot;" target="&quot;HỌC PHẦN&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"giảng viên are responsible for teaching học phần, highlighting their role in educational delivery."</data>
+  <data key="d5">"teaching responsibility, education"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</edge>
+<edge source="&quot;GIẢNG VIÊN&quot;" target="&quot;NGƯỜI HỌC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Giảng viên trực tiếp giảng dạy và hướng dẫn người học trong quá trình học tập."</data>
+  <data key="d5">"giáo dục, tương tác"</data>
+  <data key="d6">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</edge>
+<edge source="&quot;GIẢNG VIÊN&quot;" target="&quot;CÁN BỘ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Cán bộ quản lý hỗ trợ và làm việc cùng giảng viên để đảm bảo hoạt động giảng dạy và học tập hiệu quả."</data>
+  <data key="d5">"quản lý, hợp tác"</data>
+  <data key="d6">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</edge>
+<edge source="&quot;CƠ SỞ GDĐH&quot;" target="&quot;NGƯỜI HỌC&quot;">
+  <data key="d3">15.0</data>
+  <data key="d4">"Cơ sở GDĐH collects feedback from Người học regarding their experiences during Tốt nghiệp."."&lt;SEP&gt;"Cơ sở GDĐH conducts surveys to assess the satisfaction levels of the Người học regarding the quality of teaching."</data>
+  <data key="d5">"feedback collection, educational assessment"&lt;SEP&gt;"feedback, assessment"</data>
+  <data key="d6">chunk-bfb56f1d588e1faa78e314cc7bbab76c&lt;SEP&gt;chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</edge>
+<edge source="&quot;CƠ SỞ GDĐH&quot;" target="&quot;TỶ LỆ TỐT NGHIỆP&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Cơ sở GDĐH tracks the Tỷ lệ tốt nghiệp as a measure of academic success and effectiveness of its educational programs."</data>
+  <data key="d5">"academic metrics, success"</data>
+  <data key="d6">chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</edge>
+<edge source="&quot;CƠ SỞ GDĐH&quot;" target="&quot;TỶ LỆ THÔI HỌC&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Cơ sở GDĐH monitors the Tỷ lệ thôi học to understand student retention and improve educational strategies."</data>
+  <data key="d5">"retention, educational strategy"</data>
+  <data key="d6">chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</edge>
+<edge source="&quot;CƠ SỞ GDĐH&quot;" target="&quot;CƠ QUAN QUẢN LÝ NHÀ NƯỚC&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Cơ quan quản lý nhà nước oversees the surveys conducted by Cơ sở GDĐH to ensure they are representative and valid."."&lt;SEP&gt;"Cơ sở GDĐH seeks to meet the requirements set by Cơ quan quản lý nhà nước for conducting independent surveys."."</data>
+  <data key="d5">"oversight, verification"&lt;SEP&gt;"regulatory compliance, procedural expectations"</data>
+  <data key="d6">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</edge>
+<edge source="&quot;VIỆT NAM&quot;" target="&quot;BỘ THÔNG TIN VÀ TRUYỀN THÔNG&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Việt Nam's telecommunications standards and internet statistics are managed by the Bộ Thông tin và Truyền thông."</data>
+  <data key="d5">"government oversight, telecommunications"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</edge>
+<edge source="&quot;BIÊN ĐỘ HOẠT ĐỘNG&quot;" target="&quot;TĂNG TRƯỞNG BỀN VỮNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"biên độ hoạt động is evaluated alongside tăng trưởng bền vững to assess the financial health of educational institutions."</data>
+  <data key="d5">"financial assessment, sustainability"</data>
+  <data key="d6">chunk-27b904d36b2a1110aa1b3ddaab0b4d8d</data>
+</edge>
+<edge source="&quot;NGƯỜI HỌC&quot;" target="&quot;KHẢO SÁT&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Người học participates in Khảo sát to provide feedback on their experiences, affecting the evaluation of teaching quality."</data>
+  <data key="d5">"student feedback, quality evaluation"</data>
+  <data key="d6">chunk-c5a9b1d16f181bc912f9d5a156d799e0</data>
+</edge>
+<edge source="&quot;NGƯỜI HỌC&quot;" target="&quot;QUÁ TRÌNH HỌC TẬP&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Người học evaluates the Quá trình học tập through surveys, expressing their satisfaction and areas for improvement."."</data>
+  <data key="d5">"feedback, evaluation"</data>
+  <data key="d6">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</edge>
+<edge source="&quot;NGƯỜI HỌC&quot;" target="&quot;THS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Người học provides feedback on the quality and effectiveness of the ThS program, impacting its ongoing evaluation and improvement efforts."."</data>
+  <data key="d5">"student feedback, program evaluation"</data>
+  <data key="d6">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</edge>
+<edge source="&quot;NGƯỜI HỌC&quot;" target="&quot;TS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Người học provides feedback on the TS program, which plays a crucial role in assessing the program's effectiveness and graduate outcomes."."</data>
+  <data key="d5">"student feedback, program evaluation"</data>
+  <data key="d6">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</edge>
+<edge source="&quot;KHẢO SÁT&quot;" target="&quot;SINH VIÊN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Sinh viên participated in the Khảo sát to provide feedback about their employment and satisfaction levels."</data>
+  <data key="d5">"feedback, participation"</data>
+  <data key="d6">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</edge>
+<edge source="&quot;KHẢO SÁT&quot;" target="&quot;TÌNH TRẠNG VIỆC LÀM&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The Khảo sát aims to evaluate the Tình trạng việc làm of students and gather their level of satisfaction with it."</data>
+  <data key="d5">"employment evaluation, satisfaction"</data>
+  <data key="d6">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</edge>
+<edge source="&quot;KHẢO SÁT&quot;" target="&quot;CHƯƠNG TRÌNH ĐÀO TẠO&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Khảo sát includes feedback from students across various Chương trình đào tạo."."</data>
+  <data key="d5">"training programs, student feedback"</data>
+  <data key="d6">chunk-4f13f15220d07db1b05bc5b9a8cb8966</data>
+</edge>
+<edge source="&quot;TỐT NGHIỆP&quot;" target="&quot;QUÁ TRÌNH HỌC TẬP&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Tốt nghiệp represents the culmination of the Quá trình học tập, where students reflect on their education as they complete their studies."."</data>
+  <data key="d5">"educational closure, reflection"</data>
+  <data key="d6">chunk-bfb56f1d588e1faa78e314cc7bbab76c</data>
+</edge>
+<edge source="&quot;N1&quot;" target="&quot;M1&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"N1 includes M1 as a component in calculating the overall employment status of graduates, which reflects the effectiveness of educational programs."</data>
+  <data key="d5">"employment calculation, educational effectiveness"</data>
+  <data key="d6">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</edge>
+<edge source="&quot;M1&quot;" target="&quot;P&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"P is the sum of graduates whose employment status (M1) is surveyed, acting as an essential element in understanding overall graduate employability."</data>
+  <data key="d5">"survey component, employability"</data>
+  <data key="d6">chunk-44bc160c7fe3c9dbddb1f997573fafe3</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;CHỦ TỊCH HĐT/HĐĐH&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Chủ tịch HĐT/HĐĐH is the leader of GDĐH, responsible for guiding the organization's strategic decisions and governance."</data>
+  <data key="d5">"leadership, governance"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;HIỆU TRƯỞNG/ GIÁM ĐỐC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Hiệu trưởng/ Giám đốc operates under the governance of GDĐH, implementing its policies and overseeing educational activities."</data>
+  <data key="d5">"administration, implementation"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;CHIẾN LƯỢC, KẾ HOẠCH PHÁT TRIỂN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Chiến lược, kế hoạch phát triển is part of the strategic initiatives undertaken by GDĐH to improve educational outcomes."</data>
+  <data key="d5">"strategic planning, improvement"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Quy chế tổ chức và hoạt động establishes the governing rules that GDĐH must follow in its operations."</data>
+  <data key="d5">"regulatory framework, governance"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;QUY CHẾ TÀI CHÍNH&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Quy chế tài chính governs the financial practices within GDĐH, influencing budgeting and financial management decisions."</data>
+  <data key="d5">"financial regulation, management"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;QUY CHẾ DÂN CHỦ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Quy chế dân chủ ensures that GDĐH operates under democratic principles, promoting transparency and participation."</data>
+  <data key="d5">"democracy, governance"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;DANH MỤC VỊ TRÍ VIỆC LÀM&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Danh mục vị trí việc làm is maintained by GDĐH to define job roles necessary for proper functioning of the organization."</data>
+  <data key="d5">"human resources, organizational structure"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;QUY ĐỊNH VỀ CÔNG TÁC CÁN BỘ, NHÂN SỰ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Quy định về công tác cán bộ, nhân sự informs HR policies within GDĐH, regulating human resources management systems."</data>
+  <data key="d5">"human resources, policy"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;QUY ĐỊNH VỀ BẢO ĐẢM CHẤT LƯỢNG&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Quy định về bảo đảm chất lượng supports GDĐH in maintaining educational quality standards, crucial for accreditation and assessment."</data>
+  <data key="d5">"quality assurance, education"</data>
+  <data key="d6">chunk-860f3f9d49eb0312d6a1a86503f026cc</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;THS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"GDĐH is responsible for overseeing and reporting the data related to the ThS master's degree program, indicating its role in advanced education."."</data>
+  <data key="d5">"educational oversight, reporting"</data>
+  <data key="d6">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</edge>
+<edge source="&quot;GDĐH&quot;" target="&quot;TS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"GDĐH is also responsible for the data related to the TS doctoral degree program, reflecting its comprehensive educational offerings."."</data>
+  <data key="d5">"educational oversight, reporting"</data>
+  <data key="d6">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</edge>
+<edge source="&quot;ĐỘI NGŨ GIẢNG VIÊN TOÀN THỜI GIAN&quot;" target="&quot;CƠ SỞ VẬT CHẤT&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Đội ngũ giảng viên cần có cơ sở vật chất phù hợp để thực hiện nhiệm vụ giảng dạy hiệu quả."</data>
+  <data key="d5">"hỗ trợ giảng dạy, giáo dục"</data>
+  <data key="d6">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</edge>
+<edge source="&quot;ĐỘI NGŨ GIẢNG VIÊN TOÀN THỜI GIAN&quot;" target="&quot;HẠ TẦNG CÔNG NGHỆ THÔNG TIN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Hạ tầng công nghệ thông tin được sử dụng bởi đội ngũ giảng viên để giảng dạy và quản lý quá trình học tập."</data>
+  <data key="d5">"giáo dục, hỗ trợ công nghệ"</data>
+  <data key="d6">chunk-aa1e51342b07bbb234ed24e0a5183deb</data>
+</edge>
+<edge source="&quot;NHÀ NƯỚC/NHÀ ĐẦU TƯ&quot;" target="&quot;HỌC PHÍ&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Nhà nước/nhà đầu tư cung cấp hỗ trợ tài chính cho giáo dục, và học phí là một phần quan trọng trong nguồn thu cho các cơ sở giáo dục."</data>
+  <data key="d5">"tài chính, hỗ trợ"</data>
+  <data key="d6">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</edge>
+<edge source="&quot;TÌNH HÌNH THU CHI HOẠT ĐỘNG&quot;" target="&quot;CHỈ SỐ TỐT NGHIỆP&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Tình hình thu chi ảnh hưởng trực tiếp đến khả năng duy trì và cải thiện chất lượng giáo dục, bao gồm tỷ lệ tốt nghiệp của sinh viên."</data>
+  <data key="d5">"quản lý tài chính, chất lượng giáo dục"</data>
+  <data key="d6">chunk-b7bb1648e7d811cc36f0b483f3f6cf37</data>
+</edge>
+<edge source="&quot;31/12&quot;" target="&quot;THỐNG KÊ&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Thống kê results are gathered and reported on the specified date of 31/12, marking the end of the statistical evaluation period for that year."."</data>
+  <data key="d5">"reporting period, data analysis"</data>
+  <data key="d6">chunk-f2d05cd0eacb83b0dbc7a87ee9e58933</data>
+</edge>
+</graph></graphml>
