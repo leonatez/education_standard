@@ -7,3 +7,4 @@ llama-index-llms-openai==0.3.30
 nest-asyncio==1.6.0
 openai==1.66.3
 markitdown==0.1.1
+python-multipart==0.0.18
